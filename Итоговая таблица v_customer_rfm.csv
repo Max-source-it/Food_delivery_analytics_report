@@ -1,0 +1,1354 @@
+"customer_id","frequency","monetary","r_score","f_score","m_score","segment"
+C1174,1,89.34,1,4,4,At Risk
+C0989,1,152.34,1,4,3,At Risk
+C0917,1,87.27,1,4,4,At Risk
+C0754,1,115.50,1,4,4,At Risk
+C0619,1,83.85,1,4,4,At Risk
+C0734,1,20.54,1,4,4,At Risk
+C0318,1,61.75,1,4,4,At Risk
+C0341,1,146.98,1,4,3,At Risk
+C0220,2,93.74,1,3,4,At Risk
+C0955,1,101.08,1,4,4,At Risk
+C0883,1,82.47,1,4,4,At Risk
+C0098,1,139.15,1,4,3,At Risk
+C1334,1,152.64,1,4,3,At Risk
+C1489,1,127.29,1,4,4,At Risk
+C0081,1,27.16,1,4,4,At Risk
+C0490,1,74.83,1,4,4,At Risk
+C0891,1,114.96,1,4,4,At Risk
+C0031,1,185.97,1,4,3,At Risk
+C0632,1,137.10,1,4,3,At Risk
+C0944,2,231.14,1,2,3,Others
+C1306,1,154.60,1,4,3,At Risk
+C0804,2,355.02,1,3,2,At Risk
+C0241,1,61.66,1,4,4,At Risk
+C0881,1,72.34,1,4,4,At Risk
+C0077,1,22.17,1,4,4,At Risk
+C0753,1,104.25,1,4,4,At Risk
+C1124,1,243.11,1,4,3,At Risk
+C0738,1,181.14,1,4,3,At Risk
+C0187,1,66.58,1,4,4,At Risk
+C0974,1,83.67,1,4,4,At Risk
+C0107,1,178.82,1,4,3,At Risk
+C0269,1,78.06,1,4,4,At Risk
+C0659,2,130.89,1,3,4,At Risk
+C0460,3,463.02,1,1,1,Hibernating
+C1496,2,225.00,1,2,3,Others
+C0926,1,196.84,1,4,3,At Risk
+C1346,1,89.86,1,4,4,At Risk
+C1140,1,58.86,1,4,4,At Risk
+C0996,1,98.78,1,4,4,At Risk
+C0552,2,527.96,1,3,1,At Risk
+C1038,1,135.70,1,4,4,At Risk
+C0264,1,74.66,1,4,4,At Risk
+C0131,1,203.61,1,4,3,At Risk
+C1184,2,79.60,1,3,4,At Risk
+C1321,1,5.40,1,4,4,At Risk
+C1405,1,270.96,1,4,2,At Risk
+C1274,1,35.61,1,4,4,At Risk
+C1478,1,62.25,1,4,4,At Risk
+C0332,1,240.00,1,4,3,At Risk
+C1371,3,426.25,1,2,1,Others
+C0674,2,374.10,1,3,2,At Risk
+C0539,1,171.72,1,4,3,At Risk
+C0915,1,113.24,1,4,4,At Risk
+C1314,2,97.06,1,3,4,At Risk
+C0545,2,73.69,1,3,4,At Risk
+C1100,2,129.76,1,3,4,At Risk
+C0125,2,102.53,1,3,4,At Risk
+C0262,1,25.53,1,4,4,At Risk
+C1030,1,228.93,1,4,3,At Risk
+C0163,1,76.09,1,3,4,At Risk
+C1291,2,240.60,1,2,3,Others
+C0298,4,393.57,1,1,1,Hibernating
+C0896,1,120.87,1,4,4,At Risk
+C0120,1,85.42,1,4,4,At Risk
+C0810,1,92.73,1,4,4,At Risk
+C0194,1,64.29,1,3,4,At Risk
+C0080,1,11.60,1,4,4,At Risk
+C0985,2,211.59,1,2,3,Others
+C0236,1,152.65,1,4,3,At Risk
+C0052,1,42.84,1,4,4,At Risk
+C1148,1,114.24,1,4,4,At Risk
+C1373,2,37.17,1,2,4,Others
+C0299,2,50.39,1,3,4,At Risk
+C0555,1,112.40,1,4,4,At Risk
+C1121,2,268.44,1,3,2,At Risk
+C1169,1,140.40,1,4,3,At Risk
+C0389,3,134.71,1,2,4,Others
+C0004,1,23.14,1,4,4,At Risk
+C1345,3,426.73,1,2,1,Others
+C0029,1,117.29,1,4,4,At Risk
+C0527,1,16.52,1,4,4,At Risk
+C0816,2,156.85,1,3,3,At Risk
+C0797,1,42.84,1,4,4,At Risk
+C1286,1,48.04,1,4,4,At Risk
+C1193,1,61.66,1,4,4,At Risk
+C0806,2,344.42,1,3,2,At Risk
+C0688,1,180.57,1,4,3,At Risk
+C0238,1,139.87,1,4,3,At Risk
+C1375,1,168.52,1,4,3,At Risk
+C0166,1,44.92,1,4,4,At Risk
+C0059,1,70.82,1,4,4,At Risk
+C0727,2,335.52,1,3,2,At Risk
+C0121,2,279.92,1,3,2,At Risk
+C0980,1,261.17,1,4,2,At Risk
+C1203,1,80.70,1,4,4,At Risk
+C0574,1,43.51,1,4,4,At Risk
+C0119,1,33.16,1,4,4,At Risk
+C1420,2,27.11,1,3,4,At Risk
+C1066,1,95.78,1,4,4,At Risk
+C0450,1,183.69,1,4,3,At Risk
+C1498,1,102.36,1,4,4,At Risk
+C0585,2,191.12,1,3,3,At Risk
+C0406,2,359.23,1,3,2,At Risk
+C0995,2,325.60,1,3,2,At Risk
+C0444,1,232.07,1,4,3,At Risk
+C0457,3,435.62,1,2,1,Others
+C0372,2,375.33,1,3,2,At Risk
+C0941,1,145.06,1,4,3,At Risk
+C0242,1,228.82,1,4,3,At Risk
+C0711,1,196.46,1,4,3,At Risk
+C1435,1,115.29,1,4,4,At Risk
+C0360,2,182.97,1,3,3,At Risk
+C1075,1,72.31,1,4,4,At Risk
+C0351,1,35.86,1,4,4,At Risk
+C1260,2,316.05,1,3,2,At Risk
+C1234,3,167.83,1,2,3,Others
+C1068,1,61.78,1,4,4,At Risk
+C1364,1,61.35,1,4,4,At Risk
+C0640,2,225.28,1,2,3,Others
+C1099,1,36.53,1,4,4,At Risk
+C0790,2,201.14,1,3,3,At Risk
+C0639,1,194.86,1,4,3,At Risk
+C0305,1,119.33,1,4,4,At Risk
+C0439,2,133.19,1,3,4,At Risk
+C1186,2,374.07,1,3,2,At Risk
+C0947,1,73.91,1,4,4,At Risk
+C0649,2,435.56,1,2,1,Others
+C0244,1,60.82,1,4,4,At Risk
+C0255,1,117.31,1,4,4,At Risk
+C0445,2,354.46,1,3,2,At Risk
+C0957,1,130.28,1,4,4,At Risk
+C1407,3,493.21,1,1,1,Hibernating
+C0958,1,111.22,1,4,4,At Risk
+C1289,2,40.64,1,2,4,Others
+C1425,1,124.06,1,4,4,At Risk
+C0102,1,43.08,1,4,4,At Risk
+C1428,1,143.05,1,4,3,At Risk
+C1426,3,192.68,1,2,3,Others
+C0921,1,8.83,1,4,4,At Risk
+C0478,1,93.01,1,3,4,At Risk
+C0278,1,78.87,1,4,4,At Risk
+C1048,2,194.65,1,3,3,At Risk
+C0253,2,218.45,1,2,3,Others
+C0533,2,330.93,1,3,2,At Risk
+C1089,2,151.60,1,3,3,At Risk
+C0576,1,196.85,1,4,3,At Risk
+C1485,1,162.76,1,4,3,At Risk
+C0771,1,152.43,1,4,3,At Risk
+C1500,1,177.24,1,4,3,At Risk
+C0644,1,120.87,1,4,4,At Risk
+C0322,2,210.81,1,2,3,Others
+C1205,1,121.56,1,4,4,At Risk
+C1331,2,246.50,1,2,3,Others
+C0144,2,150.68,1,3,3,At Risk
+C1308,5,714.12,1,1,1,Hibernating
+C0082,1,86.47,1,4,4,At Risk
+C0058,2,435.03,1,2,1,Others
+C0089,1,19.46,1,4,4,At Risk
+C0296,2,266.73,1,3,2,At Risk
+C1170,5,416.33,1,1,1,Hibernating
+C0111,1,33.15,1,4,4,At Risk
+C1109,1,71.35,1,4,4,At Risk
+C0991,1,123.99,1,4,4,At Risk
+C1138,1,60.90,1,4,4,At Risk
+C1464,2,215.19,1,2,3,Others
+C0105,3,188.12,1,2,3,Others
+C0480,3,372.76,1,2,2,Others
+C0176,2,336.16,1,3,2,At Risk
+C0633,1,101.04,1,4,4,At Risk
+C0391,2,214.77,1,2,3,Others
+C1087,1,207.16,1,4,3,At Risk
+C0002,4,309.43,1,1,2,Hibernating
+C1004,1,27.71,1,4,4,At Risk
+C0894,2,238.88,1,2,3,Others
+C0878,2,233.24,1,2,3,Others
+C0655,1,159.29,1,3,3,At Risk
+C1103,1,13.22,1,4,4,At Risk
+C0606,2,168.69,1,3,3,At Risk
+C0392,1,133.45,1,4,4,At Risk
+C0984,1,244.78,1,4,3,At Risk
+C0744,3,294.39,1,2,2,Others
+C0028,1,135.37,1,4,4,At Risk
+C0273,1,299.73,1,4,2,At Risk
+C1163,1,132.92,1,4,4,At Risk
+C0538,1,230.18,1,4,3,At Risk
+C0201,1,187.99,1,4,3,At Risk
+C1246,1,62.05,1,4,4,At Risk
+C0215,2,169.50,1,3,3,At Risk
+C1111,1,70.90,1,4,4,At Risk
+C1417,2,263.98,1,3,2,At Risk
+C0553,2,297.52,1,3,2,At Risk
+C1461,2,157.69,1,3,3,At Risk
+C0155,1,215.06,1,4,3,At Risk
+C0017,1,63.31,1,4,4,At Risk
+C0685,1,152.79,1,4,3,At Risk
+C0762,2,194.94,1,3,3,At Risk
+C1025,1,61.89,1,4,4,At Risk
+C1035,1,120.96,1,4,4,At Risk
+C1484,4,394.88,1,1,1,Hibernating
+C0535,3,468.43,1,1,1,Hibernating
+C0546,1,19.81,1,4,4,At Risk
+C1070,1,101.27,1,4,4,At Risk
+C0487,1,116.78,1,4,4,At Risk
+C1412,1,69.44,1,4,4,At Risk
+C0530,1,49.38,1,4,4,At Risk
+C0965,1,108.87,1,4,4,At Risk
+C0764,3,262.74,1,2,2,Others
+C0209,1,211.73,1,4,3,At Risk
+C0010,1,46.00,1,4,4,At Risk
+C1268,1,13.86,1,4,4,At Risk
+C0746,2,360.32,1,3,2,At Risk
+C0795,3,118.93,1,2,4,Others
+C0635,3,450.96,1,1,1,Hibernating
+C0986,2,493.25,1,3,1,At Risk
+C0033,2,347.40,1,3,2,At Risk
+C0358,1,154.21,1,4,3,At Risk
+C0214,2,185.98,1,3,3,At Risk
+C0998,3,259.39,1,2,2,Others
+C0040,1,154.57,1,4,3,At Risk
+C0873,3,373.62,1,2,2,Others
+C0311,3,350.08,1,2,2,Others
+C0274,3,334.89,1,2,2,Others
+C0085,2,453.80,1,3,1,At Risk
+C0417,3,285.00,1,2,2,Others
+C0408,1,75.14,1,3,4,At Risk
+C1133,4,481.84,1,1,1,Hibernating
+C0822,2,233.22,1,2,3,Others
+C0870,1,39.54,1,4,4,At Risk
+C1416,2,118.23,1,3,4,At Risk
+C0628,3,509.05,1,1,1,Hibernating
+C1146,1,164.56,1,4,3,At Risk
+C1491,2,397.84,1,3,1,At Risk
+C0458,1,23.97,1,4,4,At Risk
+C0092,2,129.76,1,3,4,At Risk
+C1437,3,230.86,1,2,3,Others
+C0777,4,371.84,1,1,2,Hibernating
+C1441,2,209.90,1,2,3,Others
+C1272,1,69.44,1,4,4,At Risk
+C0603,1,86.85,1,4,4,At Risk
+C0645,2,179.26,1,3,3,At Risk
+C0427,1,97.09,1,4,4,At Risk
+C0295,1,167.82,1,4,3,At Risk
+C0776,1,130.39,1,4,4,At Risk
+C0348,1,72.39,1,4,4,At Risk
+C1237,4,508.74,1,1,1,Hibernating
+C0999,4,337.88,1,1,2,Hibernating
+C0625,2,177.78,1,3,3,At Risk
+C0400,1,222.63,1,4,3,At Risk
+C0226,2,322.62,1,3,2,At Risk
+C1144,2,216.27,1,2,3,Others
+C1158,2,215.33,1,2,3,Others
+C0889,1,73.26,1,4,4,At Risk
+C1233,2,297.17,1,3,2,At Risk
+C0780,2,402.44,1,3,1,At Risk
+C0084,2,279.70,1,3,2,At Risk
+C0737,2,149.40,1,3,3,At Risk
+C1096,3,169.22,1,2,3,Others
+C0551,1,70.65,1,4,4,At Risk
+C1383,1,140.05,1,4,3,At Risk
+C0451,2,266.35,1,3,2,At Risk
+C0173,1,40.90,1,4,4,At Risk
+C0937,3,365.18,1,2,2,Others
+C1349,2,315.04,1,3,2,At Risk
+C0939,2,211.82,1,2,3,Others
+C1143,2,280.38,1,3,2,At Risk
+C1245,1,25.89,1,4,4,At Risk
+C0484,2,94.29,1,3,4,At Risk
+C0594,2,191.53,1,3,3,At Risk
+C0580,1,59.34,1,3,4,At Risk
+C1479,1,20.08,1,3,4,At Risk
+C1213,2,214.95,1,2,3,Others
+C0073,1,132.59,1,4,4,At Risk
+C1116,2,263.91,1,3,2,At Risk
+C1290,1,131.93,1,4,4,At Risk
+C0752,2,260.89,1,3,2,At Risk
+C1386,2,111.02,1,3,4,At Risk
+C0224,1,28.72,1,4,4,At Risk
+C1181,2,293.45,1,3,2,At Risk
+C1275,1,130.14,1,4,4,At Risk
+C0016,1,29.27,1,4,4,At Risk
+C0319,4,525.35,1,1,1,Hibernating
+C0773,2,384.77,1,3,2,At Risk
+C0385,1,33.87,1,4,4,At Risk
+C1151,4,176.15,1,1,3,Hibernating
+C0613,1,131.92,1,4,4,At Risk
+C0798,1,117.66,1,4,4,At Risk
+C0065,1,89.46,1,4,4,At Risk
+C1127,1,17.73,1,4,4,At Risk
+C0604,1,86.00,1,4,4,At Risk
+C0509,2,261.61,1,3,2,At Risk
+C1161,3,446.32,1,2,1,Others
+C0653,5,437.17,1,1,1,Hibernating
+C0309,2,312.55,1,3,2,At Risk
+C1273,1,148.74,1,4,3,At Risk
+C1347,3,558.39,1,1,1,Hibernating
+C1113,1,79.01,1,4,4,At Risk
+C0686,3,329.47,1,2,2,Others
+C0053,3,501.06,1,1,1,Hibernating
+C1382,1,209.49,1,4,3,At Risk
+C1139,3,398.08,1,2,1,Others
+C0782,3,454.17,1,1,1,Hibernating
+C0310,2,285.66,1,3,2,At Risk
+C1285,3,357.95,1,2,2,Others
+C1157,1,256.02,1,4,2,At Risk
+C1304,2,269.76,1,3,2,At Risk
+C0114,1,12.87,1,4,4,At Risk
+C0498,2,262.71,1,3,2,At Risk
+C0598,3,434.33,1,2,1,Others
+C0757,2,210.69,1,2,3,Others
+C1303,2,118.63,1,3,4,At Risk
+C1399,3,289.27,1,2,2,Others
+C0515,1,158.96,1,3,3,At Risk
+C0493,5,550.42,1,1,1,Hibernating
+C0429,2,258.30,1,3,2,At Risk
+C0145,3,279.01,1,2,2,Others
+C0508,1,157.48,1,4,3,At Risk
+C0504,1,176.58,1,4,3,At Risk
+C0306,1,67.05,1,4,4,At Risk
+C1082,1,131.92,1,4,4,At Risk
+C1248,2,158.49,1,3,3,At Risk
+C0126,1,86.31,1,4,4,At Risk
+C0852,2,279.78,1,3,2,At Risk
+C0749,1,63.27,1,4,4,At Risk
+C0251,2,250.99,1,2,2,Others
+C0735,1,25.10,1,4,4,At Risk
+C0761,2,252.46,1,2,2,Others
+C0841,2,215.48,1,2,3,Others
+C0517,2,261.71,1,3,2,At Risk
+C1020,3,303.59,1,2,2,Others
+C0934,2,339.08,1,3,2,At Risk
+C0078,1,7.08,1,4,4,At Risk
+C1414,3,370.81,1,2,2,Others
+C1493,4,514.74,1,1,1,Hibernating
+C0866,2,414.63,1,2,1,Others
+C1242,1,154.12,1,4,3,At Risk
+C1354,4,412.38,1,1,1,Hibernating
+C0698,1,69.31,1,4,4,At Risk
+C0569,4,453.59,1,1,1,Hibernating
+C1378,1,145.81,1,4,3,At Risk
+C0467,3,118.40,2,2,4,Others
+C0003,1,14.28,2,4,4,At Risk
+C0547,2,116.82,2,3,4,At Risk
+C1421,4,405.78,2,1,1,Others
+C0229,3,336.81,2,2,2,Others
+C1183,3,305.49,2,2,2,Others
+C1360,1,131.30,2,4,4,At Risk
+C1000,1,70.29,2,4,4,At Risk
+C0543,1,202.28,2,4,3,At Risk
+C0558,4,463.34,2,1,1,Others
+C0879,2,269.97,2,3,2,At Risk
+C0724,2,200.36,2,3,3,At Risk
+C0812,1,137.30,2,4,3,At Risk
+C0868,2,216.53,2,2,3,Others
+C1110,2,180.08,2,3,3,At Risk
+C0178,1,204.81,2,4,3,At Risk
+C0195,2,173.09,2,3,3,At Risk
+C1283,2,306.82,2,3,2,At Risk
+C1444,1,93.28,2,3,4,At Risk
+C1060,1,326.07,2,4,2,At Risk
+C1455,2,223.54,2,2,3,Others
+C0235,5,191.28,2,1,3,Others
+C0133,1,7.73,2,4,4,At Risk
+C1236,3,447.67,2,2,1,Others
+C0367,1,103.33,2,4,4,At Risk
+C0563,1,149.66,2,4,3,At Risk
+C0270,2,203.80,2,2,3,Others
+C1402,1,107.16,2,4,4,At Risk
+C0818,2,290.47,2,3,2,At Risk
+C1282,2,162.85,2,3,3,At Risk
+C1228,2,279.53,2,3,2,At Risk
+C1355,4,412.26,2,1,1,Others
+C0314,2,327.56,2,3,2,At Risk
+C1433,4,361.93,2,1,2,Others
+C0247,3,392.73,2,2,1,Others
+C0570,1,74.74,2,4,4,At Risk
+C0232,1,26.48,2,4,4,At Risk
+C1395,4,377.28,2,1,2,Others
+C0152,3,512.68,2,1,1,Others
+C0936,3,205.42,2,2,3,Others
+C0791,4,440.44,2,1,1,Others
+C0813,2,271.06,2,3,2,At Risk
+C0616,1,59.99,2,3,4,At Risk
+C0638,3,490.71,2,1,1,Others
+C0820,5,328.23,2,1,2,Others
+C0775,1,179.23,2,4,3,At Risk
+C0827,1,145.85,2,4,3,At Risk
+C0647,2,312.55,2,3,2,At Risk
+C1462,2,264.09,2,3,2,At Risk
+C1302,2,255.87,2,3,2,At Risk
+C0769,3,333.52,2,2,2,Others
+C0503,1,143.07,2,4,3,At Risk
+C1072,2,182.18,2,3,3,At Risk
+C0042,2,73.23,2,3,4,At Risk
+C1368,4,353.68,2,1,2,Others
+C0824,2,154.23,2,3,3,At Risk
+C0963,1,232.80,2,4,3,At Risk
+C0819,2,277.08,2,3,2,At Risk
+C1309,3,318.24,2,2,2,Others
+C1013,1,178.00,2,4,3,At Risk
+C0510,2,213.78,2,2,3,Others
+C1160,1,81.62,2,4,4,At Risk
+C0382,1,268.93,2,4,2,At Risk
+C0981,1,81.72,2,4,4,At Risk
+C1443,5,781.25,2,1,1,Others
+C1217,4,626.58,2,1,1,Others
+C0712,2,185.98,2,3,3,At Risk
+C0825,2,188.92,2,3,3,At Risk
+C0249,3,330.72,2,2,2,Others
+C0189,3,308.62,2,2,2,Others
+C1480,3,178.87,2,2,3,Others
+C0799,1,68.75,2,4,4,At Risk
+C0230,2,191.21,2,3,3,At Risk
+C0127,2,387.23,2,3,1,At Risk
+C1108,1,29.91,2,4,4,At Risk
+C0821,1,167.88,2,4,3,At Risk
+C0355,1,85.62,2,4,4,At Risk
+C0045,1,89.96,2,4,4,At Risk
+C1486,4,335.38,2,1,2,Others
+C1263,3,608.67,2,1,1,Others
+C1276,1,108.56,2,4,4,At Risk
+C0725,6,597.90,2,1,1,Others
+C0596,2,212.72,2,2,3,Others
+C0132,3,186.13,2,2,3,Others
+C0695,2,139.42,2,3,3,At Risk
+C0388,2,175.62,2,3,3,At Risk
+C1086,3,415.72,2,2,1,Others
+C1046,1,78.20,2,4,4,At Risk
+C0979,2,121.21,2,3,4,At Risk
+C1147,1,215.34,2,4,3,At Risk
+C0024,2,246.33,2,2,3,Others
+C0491,2,42.75,2,2,4,Others
+C1194,1,119.13,2,4,4,At Risk
+C1432,2,414.17,2,3,1,At Risk
+C0072,2,150.90,2,3,3,At Risk
+C0794,6,704.92,2,1,1,Others
+C0260,3,243.47,2,2,3,Others
+C0942,2,220.11,2,2,3,Others
+C0483,2,257.95,2,3,2,At Risk
+C0730,1,109.49,2,4,4,At Risk
+C0012,2,275.04,2,3,2,At Risk
+C1098,4,501.12,2,1,1,Others
+C1044,2,163.46,2,3,3,At Risk
+C0714,1,48.64,2,4,4,At Risk
+C0474,2,296.51,2,3,2,At Risk
+C0648,3,425.01,2,2,1,Others
+C0468,3,170.92,2,2,3,Others
+C0036,3,596.22,2,1,1,Others
+C0327,2,164.78,2,3,3,At Risk
+C0575,4,393.06,2,1,1,Others
+C1494,4,469.10,2,1,1,Others
+C0366,1,88.97,2,4,4,At Risk
+C0147,2,247.67,2,2,3,Others
+C1006,1,50.82,2,4,4,At Risk
+C1180,1,115.08,2,4,4,At Risk
+C1122,1,207.33,2,4,3,At Risk
+C0279,2,122.02,2,3,4,At Risk
+C1463,2,253.97,2,2,2,Others
+C0047,3,286.02,2,2,2,Others
+C1403,2,298.98,2,3,2,At Risk
+C1316,2,193.20,2,3,3,At Risk
+C0759,2,283.48,2,2,2,Others
+C1318,3,293.96,2,2,2,Others
+C0228,4,410.43,2,1,1,Others
+C1438,2,85.82,2,3,4,At Risk
+C0593,1,58.02,2,4,4,At Risk
+C0826,2,214.23,2,2,3,Others
+C1001,5,455.63,2,1,1,Others
+C0035,2,312.74,2,3,2,At Risk
+C0304,2,310.95,2,3,2,At Risk
+C0422,1,45.71,2,4,4,At Risk
+C0122,2,122.81,2,3,4,At Risk
+C0602,1,46.00,2,4,4,At Risk
+C1097,2,293.27,2,3,2,At Risk
+C0222,1,73.51,2,4,4,At Risk
+C1010,2,255.05,2,3,2,At Risk
+C0904,4,552.19,2,1,1,Others
+C0661,4,282.02,2,1,2,Others
+C0276,2,182.97,2,3,3,At Risk
+C0962,2,242.15,2,2,3,Others
+C0405,4,377.47,2,1,2,Others
+C0489,4,560.15,2,1,1,Others
+C0168,2,250.59,2,2,2,Others
+C0219,7,1078.40,2,1,1,Others
+C0948,3,429.83,2,2,1,Others
+C1026,3,229.84,2,2,3,Others
+C0859,1,103.05,2,4,4,At Risk
+C0910,2,190.82,2,3,3,At Risk
+C0572,1,182.30,2,4,3,At Risk
+C1356,3,389.53,2,2,1,Others
+C0537,1,41.74,2,4,4,At Risk
+C1469,5,404.07,2,1,1,Others
+C1465,2,131.81,2,3,4,At Risk
+C0225,3,478.74,2,1,1,Others
+C1198,2,221.48,2,2,3,Others
+C0717,2,81.82,2,3,4,At Risk
+C0153,2,234.56,2,2,3,Others
+C0055,2,238.65,2,2,3,Others
+C0284,3,392.92,2,2,1,Others
+C0736,2,204.70,2,2,3,Others
+C0590,3,329.07,2,2,2,Others
+C0006,5,472.88,2,1,1,Others
+C1212,4,401.90,2,1,1,Others
+C1077,2,142.43,2,3,3,At Risk
+C0469,1,92.80,2,4,4,At Risk
+C1307,3,622.31,2,1,1,Others
+C0690,4,609.81,2,1,1,Others
+C0687,3,391.46,2,2,1,Others
+C0346,2,334.67,2,3,2,At Risk
+C0823,1,204.52,2,4,3,At Risk
+C0506,1,68.22,2,4,4,At Risk
+C1063,5,414.40,2,1,1,Others
+C0488,3,323.82,2,2,2,Others
+C1134,2,96.93,2,3,4,At Risk
+C0150,5,307.56,2,1,2,Others
+C0356,2,80.01,2,3,4,At Risk
+C1152,5,811.20,2,1,1,Others
+C0165,1,121.91,2,4,4,At Risk
+C0110,1,61.59,2,4,4,At Risk
+C1085,2,291.40,2,3,2,At Risk
+C0982,2,134.02,2,3,4,At Risk
+C0171,2,160.84,2,3,3,At Risk
+C0106,2,196.62,2,3,3,At Risk
+C0741,3,228.72,2,2,3,Others
+C1241,2,361.93,2,3,2,At Risk
+C1487,6,620.66,2,1,1,Others
+C0620,4,514.67,2,1,1,Others
+C0760,2,349.10,2,3,2,At Risk
+C1118,2,320.07,2,3,2,At Risk
+C0666,2,209.71,2,2,3,Others
+C1218,2,258.38,2,3,2,At Risk
+C0101,2,229.03,2,2,3,Others
+C0020,2,158.28,2,3,3,At Risk
+C1384,1,128.86,2,4,4,At Risk
+C0756,1,144.78,2,4,3,At Risk
+C0135,1,50.34,2,4,4,At Risk
+C1040,4,538.25,2,1,1,Others
+C1471,1,41.74,2,4,4,At Risk
+C1422,2,132.05,2,3,4,At Risk
+C1367,3,329.89,2,2,2,Others
+C1313,3,471.29,2,1,1,Others
+C0091,3,403.31,2,2,1,Others
+C1297,1,156.55,2,4,3,At Risk
+C1377,3,249.31,2,2,3,Others
+C1387,1,9.13,2,4,4,At Risk
+C1396,2,250.57,2,2,3,Others
+C0843,1,304.17,2,4,2,At Risk
+C0373,6,581.80,2,1,1,Others
+C0864,2,219.62,2,2,3,Others
+C0582,2,177.68,2,3,3,At Risk
+C1007,3,462.62,2,1,1,Others
+C0123,2,135.99,2,3,4,At Risk
+C0849,2,341.55,2,3,2,At Risk
+C0272,1,23.40,2,4,4,At Risk
+C1017,4,567.06,2,1,1,Others
+C1178,2,197.98,2,3,3,At Risk
+C0434,4,467.66,2,1,1,Others
+C0681,2,169.53,2,3,3,At Risk
+C1206,3,469.19,2,1,1,Others
+C1189,2,315.50,2,3,2,At Risk
+C0375,2,170.78,2,3,3,At Risk
+C1067,3,485.02,2,1,1,Others
+C1196,2,130.14,2,3,4,At Risk
+C1429,2,222.39,2,2,3,Others
+C0968,4,451.38,2,1,1,Others
+C1472,2,319.49,2,3,2,At Risk
+C1016,2,275.68,2,3,2,At Risk
+C0456,1,86.18,2,4,4,At Risk
+C0634,3,318.85,2,2,2,Others
+C0721,3,308.47,2,2,2,Others
+C0682,3,379.62,2,2,2,Others
+C0577,3,220.41,2,2,3,Others
+C0328,3,386.52,2,2,2,Others
+C1404,4,432.67,2,1,1,Others
+C1256,3,424.86,2,2,1,Others
+C0758,2,370.04,2,3,2,At Risk
+C0549,3,402.97,2,2,1,Others
+C0470,3,351.49,2,2,2,Others
+C1374,1,296.46,2,4,2,At Risk
+C0548,2,332.87,2,3,2,At Risk
+C0198,3,378.39,2,2,2,Others
+C0146,3,265.19,2,2,2,Others
+C0862,3,308.49,2,2,2,Others
+C0747,1,118.68,2,4,4,At Risk
+C0443,3,292.17,2,2,2,Others
+C1125,1,83.70,2,4,4,At Risk
+C0699,2,385.64,2,3,2,At Risk
+C0419,2,186.06,2,3,3,At Risk
+C0664,4,581.28,2,1,1,Others
+C1252,1,109.14,2,4,4,At Risk
+C0544,4,615.75,2,1,1,Others
+C0317,1,167.71,2,4,3,At Risk
+C0671,3,376.24,2,2,2,Others
+C0689,3,170.22,2,2,3,Others
+C0874,2,386.15,2,3,2,At Risk
+C0339,1,247.14,2,4,3,At Risk
+C0472,4,429.28,2,1,1,Others
+C1049,2,95.29,2,3,4,At Risk
+C1128,3,256.49,2,2,2,Others
+C1258,6,643.69,2,1,1,Others
+C0916,1,23.85,2,4,4,At Risk
+C0308,2,212.10,2,2,3,Others
+C0880,2,248.79,2,2,3,Others
+C1448,1,127.26,2,4,4,At Risk
+C0599,4,499.42,2,1,1,Others
+C0560,2,187.15,2,3,3,At Risk
+C0692,2,214.40,2,2,3,Others
+C1324,2,97.29,2,3,4,At Risk
+C1202,3,323.99,2,2,2,Others
+C0452,3,231.41,2,2,3,Others
+C0014,1,23.12,2,4,4,At Risk
+C0481,3,351.09,2,2,2,Others
+C1335,1,65.56,2,4,4,At Risk
+C1249,2,141.98,2,3,3,At Risk
+C0307,4,428.80,2,1,1,Others
+C0850,2,193.70,2,3,3,At Risk
+C0223,3,239.47,2,2,3,Others
+C0143,4,442.78,2,1,1,Others
+C0345,3,312.90,2,2,2,Others
+C1427,3,189.56,2,2,3,Others
+C0838,2,360.39,2,3,2,At Risk
+C1499,5,1075.29,2,1,1,Others
+C1187,2,93.27,2,3,4,At Risk
+C0672,2,254.31,2,3,2,At Risk
+C0726,1,150.65,2,4,3,At Risk
+C0418,2,49.09,2,3,4,At Risk
+C0343,3,382.28,2,2,2,Others
+C1481,5,365.97,2,1,2,Others
+C0292,4,543.58,2,1,1,Others
+C0423,3,246.63,2,2,3,Others
+C0956,3,330.36,2,2,2,Others
+C0702,3,190.72,2,2,3,Others
+C1123,2,269.33,2,3,2,At Risk
+C0617,1,32.34,2,4,4,At Risk
+C0115,5,648.20,2,1,1,Others
+C1216,3,301.54,2,2,2,Others
+C0772,4,294.51,2,1,2,Others
+C1389,2,230.04,2,2,3,Others
+C0267,2,309.12,2,3,2,At Risk
+C1254,3,405.84,2,2,1,Others
+C1011,1,24.07,2,4,4,At Risk
+C1061,4,260.26,2,1,2,Others
+C0803,5,555.17,2,1,1,Others
+C0376,2,158.96,2,3,3,At Risk
+C1069,1,172.08,2,4,3,At Risk
+C1220,1,59.77,2,3,4,At Risk
+C0094,3,390.02,2,2,1,Others
+C0707,2,273.32,2,3,2,At Risk
+C0612,2,168.55,2,3,3,At Risk
+C1397,5,565.26,2,1,1,Others
+C0265,3,305.82,2,2,2,Others
+C0277,1,147.79,2,4,3,At Risk
+C0961,3,251.21,2,2,2,Others
+C1045,2,304.10,2,3,2,At Risk
+C0079,2,107.59,2,3,4,At Risk
+C1442,3,556.43,2,1,1,Others
+C0511,2,266.68,2,3,2,At Risk
+C0177,1,38.28,2,4,4,At Risk
+C0428,3,169.58,2,2,3,Others
+C1172,2,315.01,2,3,2,At Risk
+C1381,3,353.49,2,2,2,Others
+C1473,1,34.37,2,4,4,At Risk
+C0557,3,579.50,2,1,1,Others
+C0190,3,297.38,2,2,2,Others
+C0807,3,401.97,2,2,1,Others
+C0723,1,194.97,2,4,3,At Risk
+C1078,1,41.81,2,4,4,At Risk
+C1034,2,367.73,2,3,2,At Risk
+C0401,4,423.13,2,1,1,Others
+C0565,4,553.20,2,1,1,Others
+C1080,2,278.57,2,3,2,At Risk
+C0949,2,392.03,2,3,1,At Risk
+C0204,2,217.90,2,2,3,Others
+C1240,1,168.62,2,4,3,At Risk
+C0453,2,142.07,2,3,3,At Risk
+C0438,3,266.26,2,2,2,Others
+C0808,3,245.98,2,2,3,Others
+C1317,1,182.89,2,4,3,At Risk
+C1261,1,68.64,3,4,4,Champions
+C0696,4,435.29,3,1,1,Others
+C1071,4,550.45,3,1,1,Others
+C1058,3,477.35,3,1,1,Others
+C0887,4,526.98,3,1,1,Others
+C0087,2,307.99,3,3,2,Champions
+C1406,2,201.61,3,3,3,Champions
+C0525,2,139.28,3,3,3,Champions
+C0854,2,239.77,3,2,3,Potential Loyalists
+C0051,1,116.47,3,4,4,Champions
+C0621,4,466.38,3,1,1,Others
+C0571,2,281.44,3,3,2,Champions
+C0844,2,222.87,3,2,3,Potential Loyalists
+C0139,4,306.10,3,1,2,Others
+C0432,4,456.38,3,1,1,Others
+C1126,3,158.31,3,2,3,Potential Loyalists
+C0861,2,187.55,3,3,3,Champions
+C1357,3,445.40,3,2,1,Potential Loyalists
+C1003,4,418.05,3,1,1,Others
+C0192,2,107.13,3,3,4,Champions
+C0093,2,94.18,3,3,4,Champions
+C0286,2,383.94,3,3,2,Champions
+C0680,2,158.96,3,3,3,Champions
+C1398,4,524.99,3,1,1,Others
+C0398,4,584.37,3,1,1,Others
+C0913,2,108.56,3,3,4,Champions
+C1319,5,502.03,3,1,1,Others
+C0402,2,345.83,3,3,2,Champions
+C0248,3,384.04,3,2,2,Potential Loyalists
+C1073,2,364.85,3,3,2,Champions
+C1372,4,306.11,3,1,2,Others
+C0929,3,468.60,3,1,1,Others
+C0216,3,384.20,3,2,2,Potential Loyalists
+C0908,3,309.25,3,2,2,Potential Loyalists
+C0441,3,155.58,3,2,3,Potential Loyalists
+C0134,6,613.28,3,1,1,Others
+C0044,2,315.02,3,3,2,Champions
+C1095,3,471.60,3,1,1,Others
+C0994,4,375.61,3,1,2,Others
+C0796,1,104.18,3,4,4,Champions
+C0404,1,131.93,3,4,4,Champions
+C1214,4,415.60,3,1,1,Others
+C0972,4,375.81,3,1,2,Others
+C1401,4,393.88,3,1,1,Others
+C0069,2,172.91,3,3,3,Champions
+C0897,1,112.70,3,4,4,Champions
+C0930,3,142.80,3,2,3,Potential Loyalists
+C0410,3,229.30,3,2,3,Potential Loyalists
+C0259,3,377.66,3,2,2,Potential Loyalists
+C0918,3,616.46,3,1,1,Others
+C0976,3,195.82,3,2,3,Potential Loyalists
+C0023,3,520.47,3,1,1,Others
+C1145,3,133.07,3,2,4,Potential Loyalists
+C1295,2,219.24,3,2,3,Potential Loyalists
+C1456,1,283.08,3,3,2,Champions
+C0156,1,78.39,3,4,4,Champions
+C1200,4,117.65,3,1,4,Others
+C1409,2,498.66,3,3,1,Champions
+C0559,2,264.78,3,3,2,Champions
+C0922,2,285.60,3,3,2,Champions
+C0767,2,262.21,3,3,2,Champions
+C0857,4,532.56,3,1,1,Others
+C0876,3,355.94,3,2,2,Potential Loyalists
+C1380,3,257.17,3,2,2,Potential Loyalists
+C0912,3,324.63,3,2,2,Potential Loyalists
+C1292,2,258.57,3,3,2,Champions
+C1430,2,265.05,3,3,2,Champions
+C0188,4,300.90,3,1,2,Others
+C0138,4,658.15,3,1,1,Others
+C0164,2,344.36,3,3,2,Champions
+C0057,3,299.90,3,2,2,Potential Loyalists
+C0500,2,174.11,3,3,3,Champions
+C1243,3,325.03,3,2,2,Potential Loyalists
+C0967,2,178.75,3,3,3,Champions
+C0288,3,337.23,3,2,2,Potential Loyalists
+C0184,3,306.34,3,2,2,Potential Loyalists
+C1219,2,167.88,3,3,3,Champions
+C1353,1,53.93,3,4,4,Champions
+C0136,2,229.47,3,2,3,Potential Loyalists
+C0300,2,97.74,3,3,4,Champions
+C0888,2,111.94,3,3,4,Champions
+C0090,6,687.71,3,1,1,Others
+C0951,1,85.87,3,4,4,Champions
+C0815,2,131.36,3,3,4,Champions
+C0485,2,106.63,3,3,4,Champions
+C1388,1,171.14,3,4,3,Champions
+C0466,2,138.58,3,3,3,Champions
+C0437,2,118.04,3,3,4,Champions
+C0642,6,632.16,3,1,1,Others
+C1084,3,305.26,3,2,2,Potential Loyalists
+C1344,1,40.90,3,4,4,Champions
+C1281,7,1043.82,3,1,1,Others
+C0413,1,212.53,3,4,3,Champions
+C0584,6,766.92,3,1,1,Others
+C0117,3,336.46,3,2,2,Potential Loyalists
+C0303,6,403.21,3,1,1,Others
+C0898,4,302.53,3,1,2,Others
+C0657,2,371.31,3,3,2,Champions
+C0352,3,370.85,3,2,2,Potential Loyalists
+C1052,3,352.45,3,2,2,Potential Loyalists
+C1141,1,55.63,3,4,4,Champions
+C1358,3,322.13,3,2,2,Potential Loyalists
+C1091,2,189.13,3,3,3,Champions
+C0140,2,245.12,3,2,3,Potential Loyalists
+C0448,3,207.77,3,2,3,Potential Loyalists
+C0271,4,560.94,3,1,1,Others
+C1081,2,275.37,3,3,2,Champions
+C0149,4,563.81,3,1,1,Others
+C1328,4,537.85,3,1,1,Others
+C1209,2,183.52,3,3,3,Champions
+C0379,3,149.04,3,2,3,Potential Loyalists
+C0185,3,122.32,3,2,4,Potential Loyalists
+C0161,4,285.26,3,1,2,Others
+C1005,3,228.28,3,2,3,Potential Loyalists
+C0293,4,515.31,3,1,1,Others
+C0950,2,199.75,3,3,3,Champions
+C0817,1,17.91,3,4,4,Champions
+C0361,4,480.88,3,1,1,Others
+C1009,5,604.62,3,1,1,Others
+C0828,3,278.34,3,2,2,Potential Loyalists
+C0435,1,65.87,3,4,4,Champions
+C1415,3,582.58,3,1,1,Others
+C1476,3,377.33,3,2,2,Potential Loyalists
+C0464,3,201.12,3,2,3,Potential Loyalists
+C0383,1,98.58,3,4,4,Champions
+C1107,4,243.31,3,1,3,Others
+C0765,2,107.76,3,3,4,Champions
+C1436,3,136.69,3,2,3,Potential Loyalists
+C0588,3,521.15,3,1,1,Others
+C1101,4,641.40,3,1,1,Others
+C0197,3,233.86,3,2,3,Potential Loyalists
+C1057,1,131.75,3,4,4,Champions
+C1410,3,249.17,3,2,3,Potential Loyalists
+C1495,3,138.28,3,2,3,Potential Loyalists
+C0449,4,452.25,3,1,1,Others
+C0471,1,160.76,3,3,3,Champions
+C0566,3,278.64,3,2,2,Potential Loyalists
+C0700,5,466.07,3,1,1,Others
+C1363,3,356.93,3,2,2,Potential Loyalists
+C0899,2,286.40,3,3,2,Champions
+C0669,2,219.72,3,2,3,Potential Loyalists
+C0365,3,140.31,3,2,3,Potential Loyalists
+C0502,8,1067.74,3,1,1,Others
+C0019,2,239.56,3,2,3,Potential Loyalists
+C0652,6,908.47,3,1,1,Others
+C1135,2,167.95,3,3,3,Champions
+C1466,3,182.69,3,2,3,Potential Loyalists
+C0925,2,66.75,3,3,4,Champions
+C0851,1,79.28,3,4,4,Champions
+C0677,3,364.62,3,2,2,Potential Loyalists
+C0205,3,541.59,3,1,1,Others
+C0331,1,143.27,3,4,3,Champions
+C0872,2,247.84,3,2,3,Potential Loyalists
+C0787,3,341.09,3,2,2,Potential Loyalists
+C0186,3,216.76,3,2,3,Potential Loyalists
+C1230,1,130.77,3,4,4,Champions
+C0380,2,357.82,3,3,2,Champions
+C0364,4,433.97,3,1,1,Others
+C0618,4,487.42,3,1,1,Others
+C1225,2,338.34,3,3,2,Champions
+C0678,4,261.72,3,1,2,Others
+C0615,3,234.36,3,2,3,Potential Loyalists
+C0425,5,544.17,3,1,1,Others
+C1271,1,15.51,3,4,4,Champions
+C1029,3,387.94,3,2,1,Potential Loyalists
+C0005,2,191.78,3,3,3,Champions
+C1483,1,82.17,3,4,4,Champions
+C1192,3,493.39,3,1,1,Others
+C1223,2,242.66,3,2,3,Potential Loyalists
+C1008,4,421.19,3,1,1,Others
+C0834,3,167.73,3,2,3,Potential Loyalists
+C0875,3,180.12,3,2,3,Potential Loyalists
+C0252,3,258.67,3,2,2,Potential Loyalists
+C0032,2,321.51,3,3,2,Champions
+C1015,4,347.97,3,1,2,Others
+C0969,2,49.04,3,3,4,Champions
+C0556,1,219.32,3,4,3,Champions
+C0283,2,396.71,3,3,1,Champions
+C0650,3,332.83,3,2,2,Potential Loyalists
+C1329,1,156.04,3,4,3,Champions
+C0459,3,356.28,3,2,2,Potential Loyalists
+C0179,3,338.02,3,2,2,Potential Loyalists
+C0636,2,184.88,3,3,3,Champions
+C1475,2,58.93,3,3,4,Champions
+C0581,5,615.47,3,1,1,Others
+C0018,2,334.15,3,3,2,Champions
+C0853,3,513.63,3,1,1,Others
+C0330,2,109.36,3,3,4,Champions
+C1244,2,202.18,3,3,3,Champions
+C0742,1,154.55,3,4,3,Champions
+C1280,2,126.94,3,3,4,Champions
+C0064,1,55.72,3,4,4,Champions
+C0227,2,433.65,3,2,1,Potential Loyalists
+C0927,4,421.73,3,1,1,Others
+C0130,3,380.81,3,2,2,Potential Loyalists
+C0871,1,237.47,3,4,3,Champions
+C0141,1,216.17,3,4,3,Champions
+C1226,2,442.61,3,2,1,Potential Loyalists
+C0462,2,278.13,3,3,2,Champions
+C0496,1,177.76,3,4,3,Champions
+C1450,1,18.74,3,4,4,Champions
+C0369,1,128.98,3,4,4,Champions
+C0848,4,552.43,3,1,1,Others
+C0869,2,54.82,3,3,4,Champions
+C1235,1,22.88,3,4,4,Champions
+C1047,3,315.62,3,2,2,Potential Loyalists
+C1332,4,428.16,3,1,1,Others
+C0313,5,684.75,3,1,1,Others
+C1207,2,76.76,3,3,4,Champions
+C0202,2,170.52,3,3,3,Champions
+C0159,2,224.48,3,2,3,Potential Loyalists
+C0103,4,245.27,3,1,3,Others
+C0670,5,359.97,3,1,2,Others
+C0919,3,391.48,3,2,1,Potential Loyalists
+C1477,2,252.49,3,2,2,Potential Loyalists
+C1343,2,176.61,3,3,3,Champions
+C0531,2,100.96,3,3,4,Champions
+C0507,2,226.93,3,2,3,Potential Loyalists
+C1257,3,410.52,3,2,1,Potential Loyalists
+C0900,1,35.53,3,4,4,Champions
+C0729,1,21.36,3,4,4,Champions
+C0074,4,310.91,3,1,2,Others
+C1014,2,265.17,3,3,2,Champions
+C1093,2,274.86,3,3,2,Champions
+C0157,4,448.24,3,1,1,Others
+C0675,3,366.67,3,2,2,Potential Loyalists
+C0026,3,319.86,3,2,2,Potential Loyalists
+C1369,2,233.02,3,2,3,Potential Loyalists
+C0520,5,693.33,3,1,1,Others
+C1449,2,114.53,3,3,4,Champions
+C0931,2,203.42,3,2,3,Potential Loyalists
+C0668,2,221.80,3,2,3,Potential Loyalists
+C0174,4,515.46,3,1,1,Others
+C0611,4,559.67,3,1,1,Others
+C0858,2,127.11,3,3,4,Champions
+C0486,1,193.62,3,4,3,Champions
+C0973,3,184.06,3,2,3,Potential Loyalists
+C0338,2,240.66,3,2,3,Potential Loyalists
+C1277,2,84.64,3,3,4,Champions
+C1065,9,1094.18,3,1,1,Others
+C1054,2,229.78,3,2,3,Potential Loyalists
+C0409,3,119.59,3,2,4,Potential Loyalists
+C0788,4,301.95,3,1,2,Others
+C1431,3,338.10,3,2,2,Potential Loyalists
+C1468,3,141.65,3,2,3,Potential Loyalists
+C0564,4,457.42,3,1,1,Others
+C0048,3,301.52,3,2,2,Potential Loyalists
+C0578,2,227.18,3,2,3,Potential Loyalists
+C0793,1,41.94,3,4,4,Champions
+C1361,1,90.56,3,4,4,Champions
+C1298,2,341.96,3,3,2,Champions
+C1325,3,215.95,3,2,3,Potential Loyalists
+C0745,4,330.14,3,1,2,Others
+C0540,5,521.47,3,1,1,Others
+C0516,1,101.09,3,4,4,Champions
+C0781,5,423.14,3,1,1,Others
+C0414,5,576.16,3,1,1,Others
+C0595,3,401.35,3,2,1,Potential Loyalists
+C1447,6,886.43,3,1,1,Others
+C0845,4,513.58,3,1,1,Others
+C1032,6,766.03,3,1,1,Others
+C0378,4,488.99,3,1,1,Others
+C0050,3,379.38,3,2,2,Potential Loyalists
+C0046,4,350.82,3,1,2,Others
+C1488,3,373.04,3,2,2,Potential Loyalists
+C0431,3,304.19,3,2,2,Potential Loyalists
+C1012,3,277.55,3,2,2,Potential Loyalists
+C1267,4,633.21,3,1,1,Others
+C0160,1,65.59,3,4,4,Champions
+C0316,2,122.50,3,3,4,Champions
+C0075,4,535.20,3,1,1,Others
+C0778,3,445.35,3,2,1,Potential Loyalists
+C0099,4,397.53,3,1,1,Others
+C1232,1,69.44,3,4,4,Champions
+C0261,5,381.28,3,1,2,Others
+C0027,4,330.81,3,1,2,Others
+C0923,4,513.60,3,1,1,Others
+C0924,3,439.53,3,2,1,Potential Loyalists
+C1342,2,149.55,3,3,3,Champions
+C0720,2,377.76,3,3,2,Champions
+C1231,2,386.11,3,3,2,Champions
+C0473,4,372.67,3,1,2,Others
+C0370,3,219.06,3,2,3,Potential Loyalists
+C0350,4,673.20,3,1,1,Others
+C0357,2,107.01,3,3,4,Champions
+C0534,3,192.46,3,2,3,Potential Loyalists
+C1293,4,518.63,3,1,1,Others
+C0463,6,566.78,3,1,1,Others
+C0208,4,593.09,3,1,1,Others
+C0011,4,382.32,3,1,2,Others
+C0748,1,23.36,3,4,4,Champions
+C1300,3,280.86,3,2,2,Potential Loyalists
+C0426,3,298.24,3,2,2,Potential Loyalists
+C0266,3,336.26,3,2,2,Potential Loyalists
+C0885,4,349.84,3,1,2,Others
+C0246,4,590.77,3,1,1,Others
+C0254,2,289.26,3,3,2,Champions
+C0076,4,530.87,3,1,1,Others
+C0733,3,478.12,3,1,1,Others
+C0629,3,104.61,3,2,4,Potential Loyalists
+C1453,6,675.04,3,1,1,Others
+C0363,6,782.80,3,1,1,Others
+C1299,2,368.72,3,3,2,Champions
+C0971,5,580.90,3,1,1,Others
+C0070,1,7.93,3,4,4,Champions
+C0938,3,137.53,3,2,3,Potential Loyalists
+C0751,2,312.39,3,3,2,Champions
+C0287,4,403.02,3,1,1,Others
+C0323,4,597.12,3,1,1,Others
+C0940,2,152.85,3,3,3,Champions
+C1238,4,419.96,3,1,1,Others
+C0768,1,156.40,3,4,3,Champions
+C0475,4,218.19,3,1,3,Others
+C0743,1,119.96,3,4,4,Champions
+C1171,4,228.70,3,1,3,Others
+C1114,4,392.32,3,1,1,Others
+C0257,1,325.08,3,4,2,Champions
+C1482,2,143.37,3,3,3,Champions
+C1002,4,487.62,3,1,1,Others
+C0902,3,226.31,3,2,3,Potential Loyalists
+C0231,3,273.93,3,2,2,Potential Loyalists
+C0250,5,546.57,3,1,1,Others
+C1266,2,184.99,3,3,3,Champions
+C0505,2,274.55,3,3,2,Champions
+C0953,4,701.75,3,1,1,Others
+C0731,3,448.65,3,2,1,Potential Loyalists
+C0663,4,312.99,3,1,2,Others
+C0030,2,223.49,3,2,3,Potential Loyalists
+C0770,3,473.65,3,1,1,Others
+C0180,5,373.70,3,1,2,Others
+C1104,2,196.44,3,3,3,Champions
+C0801,7,688.89,3,1,1,Others
+C1199,3,295.61,3,2,2,Potential Loyalists
+C0667,2,129.21,3,3,4,Champions
+C1037,3,267.58,3,2,2,Potential Loyalists
+C0333,3,281.17,3,2,2,Potential Loyalists
+C0088,3,301.02,3,2,2,Potential Loyalists
+C1182,3,317.58,3,2,2,Potential Loyalists
+C0703,4,206.78,4,1,3,Others
+C0420,4,399.20,4,1,1,Others
+C0779,5,668.71,4,1,1,Others
+C1083,3,663.29,4,1,1,Others
+C0495,1,57.56,4,4,4,Champions
+C0326,2,461.86,4,3,1,Champions
+C0907,4,553.39,4,1,1,Others
+C1105,3,266.49,4,2,2,Potential Loyalists
+C1119,1,36.80,4,4,4,Champions
+C0518,1,32.66,4,4,4,Champions
+C0067,2,139.67,4,3,3,Champions
+C1173,4,168.89,4,1,3,Others
+C0116,1,27.00,4,4,4,Champions
+C0573,2,60.75,4,2,4,Potential Loyalists
+C0997,2,222.34,4,2,3,Potential Loyalists
+C0532,3,412.62,4,2,1,Potential Loyalists
+C0325,4,357.27,4,1,2,Others
+C0554,3,418.53,4,2,1,Potential Loyalists
+C1055,3,400.42,4,2,1,Potential Loyalists
+C1076,4,511.85,4,1,1,Others
+C1310,1,219.54,4,4,3,Champions
+C0170,4,618.75,4,1,1,Others
+C1132,4,637.53,4,1,1,Others
+C0832,4,499.42,4,1,1,Others
+C1315,2,102.26,4,3,4,Champions
+C0424,3,276.53,4,2,2,Potential Loyalists
+C0855,2,238.71,4,2,3,Potential Loyalists
+C0477,6,735.14,4,1,1,Others
+C0683,1,184.28,4,4,3,Champions
+C0626,3,419.36,4,2,1,Potential Loyalists
+C1042,2,247.72,4,2,3,Potential Loyalists
+C0454,4,712.42,4,1,1,Others
+C0359,4,392.45,4,1,1,Others
+C1423,2,97.59,4,3,4,Champions
+C0837,4,494.83,4,1,1,Others
+C0643,2,354.95,4,3,2,Champions
+C0597,7,743.58,4,1,1,Others
+C0268,2,224.21,4,2,3,Potential Loyalists
+C0784,2,274.24,4,3,2,Champions
+C0732,5,616.05,4,1,1,Others
+C1115,3,315.06,4,2,2,Potential Loyalists
+C0614,1,180.71,4,4,3,Champions
+C0113,3,222.15,4,2,3,Potential Loyalists
+C0943,4,299.96,4,1,2,Others
+C0665,6,543.34,4,1,1,Others
+C0465,4,570.33,4,1,1,Others
+C0933,3,361.84,4,2,2,Potential Loyalists
+C1027,1,210.00,4,4,3,Champions
+C0025,4,479.39,4,1,1,Others
+C0654,1,138.68,4,4,3,Champions
+C1394,5,528.09,4,1,1,Others
+C0390,4,515.10,4,1,1,Others
+C0342,3,512.46,4,1,1,Others
+C0492,2,288.34,4,3,2,Champions
+C0809,3,285.41,4,2,2,Potential Loyalists
+C1452,3,265.10,4,2,2,Potential Loyalists
+C0056,3,379.40,4,2,2,Potential Loyalists
+C0541,4,454.15,4,1,1,Others
+C0740,4,560.22,4,1,1,Others
+C0716,4,591.11,4,1,1,Others
+C1490,2,354.80,4,3,2,Champions
+C1201,7,865.66,4,1,1,Others
+C0860,4,449.87,4,1,1,Others
+C0624,1,156.94,4,4,3,Champions
+C0523,7,819.16,4,1,1,Others
+C0774,4,416.69,4,1,1,Others
+C1305,4,459.78,4,1,1,Others
+C1265,3,420.12,4,2,1,Potential Loyalists
+C1028,2,269.35,4,3,2,Champions
+C0301,2,158.53,4,3,3,Champions
+C1279,4,536.82,4,1,1,Others
+C1018,3,271.43,4,2,2,Potential Loyalists
+C0701,1,131.16,4,4,4,Champions
+C0895,3,429.90,4,2,1,Potential Loyalists
+C0297,3,410.41,4,2,1,Potential Loyalists
+C1210,5,733.50,4,1,1,Others
+C1137,3,399.75,4,2,1,Potential Loyalists
+C0646,3,358.96,4,2,2,Potential Loyalists
+C0442,4,425.04,4,1,1,Others
+C1424,3,358.89,4,2,2,Potential Loyalists
+C1155,3,282.57,4,2,2,Potential Loyalists
+C0275,2,126.71,4,3,4,Champions
+C1088,3,377.73,4,2,2,Potential Loyalists
+C1460,2,210.47,4,2,3,Potential Loyalists
+C0022,2,178.28,4,3,3,Champions
+C0118,2,252.26,4,2,2,Potential Loyalists
+C0403,2,126.07,4,3,4,Champions
+C1366,6,602.95,4,1,1,Others
+C0387,3,210.71,4,2,3,Potential Loyalists
+C0529,2,273.23,4,3,2,Champions
+C0623,3,175.16,4,2,3,Potential Loyalists
+C0294,2,80.74,4,3,4,Champions
+C1239,7,793.60,4,1,1,Others
+C0191,4,346.83,4,1,2,Others
+C1467,3,219.29,4,2,3,Potential Loyalists
+C0977,5,552.95,4,1,1,Others
+C1376,2,92.81,4,3,4,Champions
+C0945,2,313.62,4,3,2,Champions
+C0609,2,307.21,4,3,2,Champions
+C0856,5,478.30,4,1,1,Others
+C0805,4,336.93,4,1,2,Others
+C0835,4,535.36,4,1,1,Others
+C0705,1,115.68,4,4,4,Champions
+C0416,4,576.49,4,1,1,Others
+C1336,2,245.85,4,2,3,Potential Loyalists
+C0061,6,411.91,4,1,1,Others
+C0377,2,370.73,4,3,2,Champions
+C0263,3,288.17,4,2,2,Potential Loyalists
+C0935,2,192.74,4,3,3,Champions
+C0038,1,221.07,4,4,3,Champions
+C0109,6,574.95,4,1,1,Others
+C0802,3,384.26,4,2,2,Potential Loyalists
+C0814,3,454.92,4,1,1,Others
+C0893,3,447.21,4,2,1,Potential Loyalists
+C0062,3,328.44,4,2,2,Potential Loyalists
+C1351,2,183.16,4,3,3,Champions
+C0015,4,383.76,4,1,2,Others
+C1024,4,326.24,4,1,2,Others
+C1190,4,550.81,4,1,1,Others
+C1341,2,295.46,4,3,2,Champions
+C0129,2,340.22,4,3,2,Champions
+C1074,3,401.08,4,2,1,Potential Loyalists
+C1129,3,343.69,4,2,2,Potential Loyalists
+C1039,2,359.27,4,3,2,Champions
+C0433,4,198.99,4,1,3,Others
+C0786,5,443.22,4,1,1,Others
+C0524,3,463.29,4,1,1,Others
+C0218,4,334.85,4,1,2,Others
+C1326,1,168.81,4,4,3,Champions
+C0966,4,428.89,4,1,1,Others
+C1340,2,281.29,4,3,2,Champions
+C1411,2,403.02,4,3,1,Champions
+C0679,5,482.51,4,1,1,Others
+C0863,1,41.79,4,4,4,Champions
+C0021,2,392.60,4,3,1,Champions
+C1159,2,168.30,4,3,3,Champions
+C1043,4,466.23,4,1,1,Others
+C0715,2,167.19,4,3,3,Champions
+C1339,3,127.79,4,2,4,Potential Loyalists
+C0993,5,613.71,4,1,1,Others
+C0329,4,424.85,4,1,1,Others
+C0906,2,95.09,4,3,4,Champions
+C1323,3,165.82,4,2,3,Potential Loyalists
+C0605,3,391.11,4,2,1,Potential Loyalists
+C0097,3,166.17,4,2,3,Potential Loyalists
+C1294,5,778.42,4,1,1,Others
+C0172,2,239.40,4,2,3,Potential Loyalists
+C0096,2,254.12,4,3,2,Champions
+C1451,5,354.20,4,1,2,Others
+C0903,4,531.13,4,1,1,Others
+C0627,1,99.51,4,4,4,Champions
+C1301,3,198.70,4,2,3,Potential Loyalists
+C0162,3,197.31,4,2,3,Potential Loyalists
+C1365,2,224.17,4,2,3,Potential Loyalists
+C0282,5,431.71,4,1,1,Others
+C0865,4,486.91,4,1,1,Others
+C0291,3,300.66,4,2,2,Potential Loyalists
+C1166,4,540.67,4,1,1,Others
+C0381,1,186.49,4,4,3,Champions
+C1227,5,476.83,4,1,1,Others
+C0785,2,229.23,4,2,3,Potential Loyalists
+C1337,2,39.18,4,2,4,Potential Loyalists
+C0568,3,340.70,4,2,2,Potential Loyalists
+C0789,3,502.80,4,1,1,Others
+C0718,2,173.50,4,3,3,Champions
+C1204,4,497.83,4,1,1,Others
+C0210,5,591.62,4,1,1,Others
+C0315,3,655.89,4,1,1,Others
+C0513,4,570.48,4,1,1,Others
+C1222,1,98.65,4,4,4,Champions
+C1211,2,251.70,4,2,2,Potential Loyalists
+C1059,4,426.65,4,1,1,Others
+C0340,2,115.16,4,3,4,Champions
+C0964,6,631.21,4,1,1,Others
+C1253,3,328.65,4,2,2,Potential Loyalists
+C0154,2,203.19,4,3,3,Champions
+C0083,2,133.07,4,3,4,Champions
+C1262,1,81.72,4,4,4,Champions
+C0691,2,106.02,4,3,4,Champions
+C0840,5,438.23,4,1,1,Others
+C1458,3,393.52,4,2,1,Potential Loyalists
+C1195,1,145.12,4,4,3,Champions
+C0846,2,421.11,4,2,1,Potential Loyalists
+C0013,2,244.61,4,2,3,Potential Loyalists
+C0234,3,312.56,4,2,2,Potential Loyalists
+C1470,3,371.30,4,2,2,Potential Loyalists
+C1264,1,45.14,4,4,4,Champions
+C0060,5,767.74,4,1,1,Others
+C0337,1,162.43,4,3,3,Champions
+C0932,6,590.98,4,1,1,Others
+C1247,3,397.89,4,2,1,Potential Loyalists
+C1348,5,636.91,4,1,1,Others
+C0914,5,342.75,4,1,2,Others
+C0586,2,96.12,4,3,4,Champions
+C1031,4,490.15,4,1,1,Others
+C0783,2,382.62,4,3,2,Champions
+C0983,4,414.06,4,1,1,Others
+C1287,3,344.45,4,2,2,Potential Loyalists
+C0901,1,66.96,4,4,4,Champions
+C1188,2,132.51,4,3,4,Champions
+C0651,4,457.24,4,1,1,Others
+C1408,2,355.45,4,3,2,Champions
+C0592,3,473.71,4,1,1,Others
+C0697,5,509.96,4,1,1,Others
+C1150,4,323.91,4,1,2,Others
+C0221,2,125.09,4,3,4,Champions
+C1362,2,379.91,4,3,2,Champions
+C0312,3,342.26,4,2,2,Potential Loyalists
+C0970,1,196.27,4,4,3,Champions
+C0728,2,272.48,4,3,2,Champions
+C0579,6,715.20,4,1,1,Others
+C0610,3,164.38,4,2,3,Potential Loyalists
+C0867,2,95.97,4,3,4,Champions
+C1051,4,579.82,4,1,1,Others
+C1053,5,316.59,4,1,2,Others
+C1251,4,684.16,4,1,1,Others
+C0440,1,91.31,4,4,4,Champions
+C0243,6,703.10,4,1,1,Others
+C0258,2,288.98,4,3,2,Champions
+C0396,2,90.49,4,3,4,Champions
+C0920,4,390.21,4,1,1,Others
+C0034,3,404.76,4,2,1,Potential Loyalists
+C1165,3,401.71,4,2,1,Potential Loyalists
+C0344,3,396.03,4,2,1,Potential Loyalists
+C1327,3,124.44,4,2,4,Potential Loyalists
+C0415,2,202.97,4,3,3,Champions
+C0213,5,567.77,4,1,1,Others
+C0631,1,97.06,4,4,4,Champions
+C0987,3,181.50,4,2,3,Potential Loyalists
+C0482,7,874.62,4,1,1,Others
+C0354,4,389.31,4,1,1,Others
+C1208,2,169.30,4,3,3,Champions
+C0043,3,728.11,4,1,1,Others
+C0521,3,235.66,4,2,3,Potential Loyalists
+C1176,3,479.01,4,1,1,Others
+C1036,5,354.31,4,1,2,Others
+C0522,6,367.20,4,1,2,Others
+C0637,3,290.71,4,2,2,Potential Loyalists
+C0601,2,318.04,4,3,2,Champions
+C1021,1,99.38,4,4,4,Champions
+C1418,2,199.23,4,3,3,Champions
+C1311,1,85.03,4,4,4,Champions
+C0479,2,332.37,4,3,2,Champions
+C0833,3,205.49,4,2,3,Potential Loyalists
+C0706,3,122.07,4,2,4,Potential Loyalists
+C0722,2,354.84,4,3,2,Champions
+C0542,3,377.37,4,2,2,Potential Loyalists
+C1392,2,86.08,4,3,4,Champions
+C0882,1,164.66,4,4,3,Champions
+C0008,3,478.17,4,1,1,Others
+C0049,5,447.20,4,1,1,Others
+C1400,4,419.37,4,1,1,Others
+C0386,3,225.77,4,2,3,Potential Loyalists
+C0302,3,317.98,4,2,2,Potential Loyalists
+C0528,3,317.38,4,2,2,Potential Loyalists
+C1459,2,117.09,4,3,4,Champions
+C1446,2,265.01,4,3,2,Champions
+C1142,2,392.64,4,2,1,Potential Loyalists
+C1215,4,670.66,4,1,1,Others
+C1094,3,653.76,4,1,1,Others
+C0397,4,335.85,4,1,2,Others
+C1179,6,836.45,4,1,1,Others
+C1167,5,316.55,4,1,2,Others
+C1156,2,147.30,4,3,3,Champions
+C1352,2,119.90,4,3,4,Champions
+C0447,2,163.71,4,3,3,Champions
+C1131,4,570.61,4,1,1,Others
+C0240,4,652.59,4,1,1,Others
+C1413,5,456.61,4,1,1,Others
+C0561,5,264.25,4,1,2,Others
+C0203,5,451.21,4,1,1,Others
+C0512,3,654.65,4,1,1,Others
+C0988,3,379.54,4,2,2,Potential Loyalists
+C0630,3,208.29,4,2,3,Potential Loyalists
+C1229,2,109.56,4,3,4,Champions
+C0836,1,73.95,4,4,4,Champions
+C0660,2,232.64,4,2,3,Potential Loyalists
+C0001,3,605.75,4,1,1,Others
+C0608,4,374.07,4,1,2,Others
+C1102,2,383.55,4,3,2,Champions
+C1338,1,247.42,4,4,3,Champions
+C0622,3,366.19,4,2,2,Potential Loyalists
+C1497,4,433.10,4,1,1,Others
+C0217,5,425.89,4,1,1,Others
+C0662,5,499.20,4,1,1,Others
+C0959,2,186.00,4,3,3,Champions
+C0394,1,98.16,4,4,4,Champions
+C0041,3,206.30,4,2,3,Potential Loyalists
+C0884,2,317.56,4,3,2,Champions
+C0461,1,128.84,4,4,4,Champions
+C0108,4,430.58,4,1,1,Others
+C1284,2,97.76,4,3,4,Champions
+C0347,1,51.60,4,4,4,Champions
+C0374,1,34.47,4,4,4,Champions
+C0567,6,731.21,4,1,1,Others
+C1296,3,470.35,4,1,1,Others
+C0407,4,604.00,4,1,1,Others
+C1278,4,275.16,4,1,2,Others
+C0362,1,120.88,4,4,4,Champions
+C0183,4,719.08,4,1,1,Others
+C0739,2,360.48,4,3,2,Champions
+C0086,5,663.09,4,1,1,Others
+C1130,5,490.72,4,1,1,Others
+C0280,2,388.35,4,3,1,Champions
+C0831,2,115.59,4,3,4,Champions
+C1474,3,269.19,4,2,2,Potential Loyalists
+C0693,1,59.24,4,3,4,Champions
+C0206,2,93.24,4,3,4,Champions
+C0928,2,352.45,4,3,2,Champions
+C0104,2,263.44,4,3,2,Champions
+C0589,1,61.40,4,4,4,Champions
+C0455,3,328.90,4,2,2,Potential Loyalists
+C0124,2,322.17,4,3,2,Champions
+C0954,2,154.43,4,3,3,Champions
+C0766,4,608.88,4,1,1,Others
+C1175,4,586.56,4,1,1,Others
+C0497,4,356.70,4,1,2,Others
+C0839,2,92.93,4,3,4,Champions
+C1062,1,125.92,4,4,4,Champions
+C0368,5,557.39,4,1,1,Others
+C1090,3,621.81,4,1,1,Others
+C1440,2,114.74,4,3,4,Champions
+C0658,3,409.23,4,2,1,Potential Loyalists
+C1312,1,113.55,4,4,4,Champions
+C0196,3,270.07,4,2,2,Potential Loyalists
+C0694,1,12.92,4,4,4,Champions
+C0750,4,566.25,4,1,1,Others
+C0562,4,332.56,4,1,2,Others
+C0199,2,308.28,4,3,2,Champions
+C0684,4,473.86,4,1,1,Others
+C0494,4,603.63,4,1,1,Others
+C0095,3,372.26,4,2,2,Potential Loyalists
+C0583,3,145.49,4,2,3,Potential Loyalists
+C1164,5,211.84,4,1,3,Others
+C0148,2,169.30,4,3,3,Champions
+C1149,5,831.63,4,1,1,Others
+C0007,7,555.90,4,1,1,Others
+C1457,4,458.85,4,1,1,Others
