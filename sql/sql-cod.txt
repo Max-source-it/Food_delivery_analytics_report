@@ -1,0 +1,111 @@
+-- 1. Общая витрина данных (все связи, для основного дашборда)
+CREATE OR REPLACE VIEW v_full_orders AS
+SELECT 
+    o.order_id, o.customer_id, o.restaurant_id, o.order_time, o.delivery_time, o.status,
+    r.cuisine, r.city, r.rating, c.signup_date,
+    oi.item_id, oi.quantity, oi.price,
+    (oi.quantity * oi.price) AS line_revenue
+FROM orders o
+JOIN customers c ON o.customer_id = c.customer_id
+JOIN restaurants r ON o.restaurant_id = r.restaurant_id
+JOIN order_items oi ON o.order_id = oi.order_id;
+
+-- 2. RFM Сегментация клиентов (по частоте, деньгам и давности)
+CREATE OR REPLACE VIEW v_customer_rfm AS
+WITH rfm_base AS (
+    SELECT o.customer_id,
+           MAX(o.order_time) AS last_order,
+           COUNT(DISTINCT o.order_id) AS frequency,
+           SUM(oi.quantity * oi.price) AS monetary
+    FROM orders o
+    JOIN order_items oi ON o.order_id = oi.order_id
+    WHERE o.status != 'Cancelled'
+    GROUP BY o.customer_id
+),
+rfm_scores AS (
+    SELECT *, 
+           NTILE(4) OVER (ORDER BY last_order ASC) AS R_Score, 
+           NTILE(4) OVER (ORDER BY frequency DESC) AS F_Score,
+           NTILE(4) OVER (ORDER BY monetary DESC) AS M_Score
+    FROM rfm_base
+)
+SELECT customer_id, frequency, monetary, R_Score, F_Score, M_Score,
+       CASE 
+           WHEN R_Score >= 3 AND F_Score >= 3 THEN 'Champions'
+           WHEN R_Score >= 3 AND F_Score = 2 THEN 'Potential Loyalists'
+           WHEN R_Score <= 2 AND F_Score >= 3 THEN 'At Risk'
+           WHEN R_Score = 1 AND F_Score = 1 THEN 'Hibernating'
+           ELSE 'Others'
+       END AS segment
+FROM rfm_scores;
+
+-- 3. Когортный анализ (Удержание клиентов по месяцам)
+CREATE OR REPLACE VIEW v_cohort_retention AS
+WITH cohort AS (
+    SELECT customer_id, TO_CHAR(MIN(order_time), 'YYYY-MM') AS cohort_month
+    FROM orders
+    GROUP BY customer_id
+),
+activity AS (
+    SELECT DISTINCT o.customer_id, TO_CHAR(o.order_time, 'YYYY-MM') AS order_month
+    FROM orders o
+    JOIN cohort c ON o.customer_id = c.customer_id
+    WHERE TO_CHAR(o.order_time, 'YYYY-MM') >= c.cohort_month
+),
+retention_counts AS (
+    SELECT c.cohort_month, a.order_month, COUNT(DISTINCT a.customer_id) AS users
+    FROM cohort c
+    JOIN activity a ON c.customer_id = a.customer_id
+    GROUP BY c.cohort_month, a.order_month
+),
+first_month_counts AS (
+    SELECT cohort_month, MAX(users) AS base_users
+    FROM retention_counts
+    WHERE order_month = cohort_month
+    GROUP BY cohort_month
+)
+SELECT rc.cohort_month, rc.order_month, rc.users,
+       ROUND(100.0 * rc.users / fm.base_users, 2) AS retention_pct
+FROM retention_counts rc
+JOIN first_month_counts fm ON rc.cohort_month = fm.cohort_month
+ORDER BY rc.cohort_month, rc.order_month;
+
+-- 4. Продуктовые метрики (DAU, WAU, MAU)
+CREATE OR REPLACE VIEW v_growth_metrics AS
+WITH daily AS (
+    SELECT DATE(order_time) AS day, COUNT(DISTINCT customer_id) AS dau
+    FROM orders WHERE status != 'Cancelled' GROUP BY DATE(order_time)
+),
+weekly AS (
+    SELECT DATE_TRUNC('week', order_time) AS week, COUNT(DISTINCT customer_id) AS wau
+    FROM orders WHERE status != 'Cancelled' GROUP BY DATE_TRUNC('week', order_time)
+),
+monthly AS (
+    SELECT DATE_TRUNC('month', order_time) AS month, COUNT(DISTINCT customer_id) AS mau
+    FROM orders WHERE status != 'Cancelled' GROUP BY DATE_TRUNC('month', order_time)
+)
+SELECT d.day, d.dau, w.wau, m.mau,
+       ROUND(100.0 * d.dau / NULLIF(m.mau, 0), 2) AS stickiness
+FROM daily d
+LEFT JOIN weekly w ON DATE_TRUNC('week', d.day) = w.week
+LEFT JOIN monthly m ON DATE_TRUNC('month', d.day) = m.month;
+
+-- 5. Финансовые метрики (ARPPU, AOV, ARPU)
+CREATE OR REPLACE VIEW v_financial_metrics AS
+WITH monthly_data AS (
+    SELECT 
+        TO_CHAR(o.order_time, 'YYYY-MM') AS month,
+        COUNT(DISTINCT o.customer_id) AS paying_users,
+        COUNT(DISTINCT o.order_id) AS total_orders,
+        SUM(oi.quantity * oi.price) AS revenue
+    FROM orders o
+    JOIN order_items oi ON o.order_id = oi.order_id
+    WHERE o.status != 'Cancelled'
+    GROUP BY TO_CHAR(o.order_time, 'YYYY-MM')
+)
+SELECT month, paying_users, total_orders, revenue,
+       ROUND(revenue / NULLIF(paying_users, 0), 2) AS arppu,
+       ROUND(revenue / NULLIF(total_orders, 0), 2) AS aov,
+       ROUND(revenue / NULLIF((SELECT COUNT(*) FROM customers), 0), 2) AS arpu
+FROM monthly_data;
+
