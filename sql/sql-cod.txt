@@ -108,4 +108,3 @@ SELECT month, paying_users, total_orders, revenue,
        ROUND(revenue / NULLIF(total_orders, 0), 2) AS aov,
        ROUND(revenue / NULLIF((SELECT COUNT(*) FROM customers), 0), 2) AS arpu
 FROM monthly_data;
-
