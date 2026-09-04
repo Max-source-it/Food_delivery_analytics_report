@@ -23,6 +23,7 @@ Food_delivery_analytics_report/
 ├── notebooks_cod/
 │       └── food_delivery_analysis.ipynb   # Основной файл с кодом
 ├── images/                # Изображения из анализа
+├── images_work/           # Изображения процесса работы
 ├── requirements.txt
 └── README.md
 ```
