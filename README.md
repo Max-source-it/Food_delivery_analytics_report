@@ -25,12 +25,12 @@ Food_delivery_analytics_report/
 ├── images/                # Изображения из анализа
 ├── images_work/           # Изображения процесса работы
 ├── sql/
-│   ├── 01_create_tables
-│   ├── 02_cleaning_and_base_view
-│   ├── 03_financial_metrics
-│   ├── 04_product_growth_metrics
-│   ├── 05_cohort_retention
-│   └── 06_rfm_segmentation
+│   ├── 01_create_tables.sql
+│   ├── 02_cleaning_and_base_view.sql
+│   ├── 03_financial_metrics.sql
+│   ├── 04_product_growth_metrics.sql
+│   ├── 05_cohort_retention.sql
+│   └── 06_rfm_segmentation.sql
 ├── requirements.txt
 └── README.md
 ```
