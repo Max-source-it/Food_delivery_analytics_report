@@ -43,6 +43,11 @@ Food_delivery_analytics_report/
 
 ## 📊 Анализ и Визуализация
 
+## 🗂️ Схема данных
+Проект построен на реляционной модели данных. Схема показывает основные таблицы (customers, restaurants, orders, menu_items, order_items) и аналитические представления (v_full_orders, v_customer_rfm, v_cohort_retention, v_financial_metrics, v_growth_metrics), созданные с помощью SQL.
+
+![Схема базы данных](images_work/database_er_diagram.png)
+
 ### 1. Когортное удержание клиентов
 Анализ показывает, как меняется процент клиентов, возвращающихся в сервис. Чем темнее ячейка, тем выше процент удержания.
 
@@ -72,6 +77,7 @@ Food_delivery_analytics_report/
 **Влияние рейтинга на скорость доставки:**
 
 ![Время доставки vs Рейтинг](images/delivery_vs_rating.png)
+
 
 ---
 
