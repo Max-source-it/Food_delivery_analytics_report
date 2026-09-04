@@ -25,7 +25,7 @@ Food_delivery_analytics_report/
 ├── images/                # Изображения из анализа
 ├── requirements.txt
 └── README.md
-
+```
 ## 🚀 Как запустить
 
 1. Склонируйте репозиторий или скачайте ZIP-архив.
@@ -38,32 +38,32 @@ Food_delivery_analytics_report/
 ### 1. Когортное удержание клиентов
 Анализ показывает, как меняется процент клиентов, возвращающихся в сервис. Чем темнее ячейка, тем выше процент удержания.
 
-<img width="1300" height="784" alt="cohort_retention_heatmap" src="https://github.com/user-attachments/assets/27b27054-a850-47c7-bd66-a69db4536687" />
+![Когортное удержание](images/cohort_retention_heatmap.png)
 
 
 ### 2. RFM-сегментация
 Разбивка клиентов по частоте заказов (Frequency), выручке (Monetary) и давности покупок (Recency).
 
-<img width="945" height="566" alt="rfm_segments_scatter" src="https://github.com/user-attachments/assets/ee81e16f-3599-4a18-b5e7-e26946682b00" />
+![RFM сегментация](images/rfm_segments_scatter.png)
 
 
 ### 3. Анализ заказов и ресторанов
 
 **Распределение статусов заказов:**
 
-<img width="544" height="514" alt="order_status_pie" src="https://github.com/user-attachments/assets/36e3ab61-f9c5-4857-896c-c7a25727b18a" />
+![Статусы заказов](images/order_status_pie.png)
 
 **Топ-10 кухонь по количеству заказов:**
 
-<img width="949" height="545" alt="top_cuisines" src="https://github.com/user-attachments/assets/e7388868-9c77-448c-b818-955fdc5aa96e" />
+![Топ-10 кухонь](images/top_cuisines.png)
 
 **Средний рейтинг по городам:**
 
-<img width="970" height="531" alt="city_rating" src="https://github.com/user-attachments/assets/18b7a8b7-89f2-4d37-bb88-8d2d5098f2b9" />
+![Средний рейтинг по городам](images/city_rating.png)
 
 **Влияние рейтинга на скорость доставки:**
 
-<img width="852" height="552" alt="delivery_vs_rating" src="https://github.com/user-attachments/assets/08fe61dc-35a2-429c-9e40-ec6ae6abdc4f" />
+![Время доставки vs Рейтинг](images/delivery_vs_rating.png)
 
 ---
 
