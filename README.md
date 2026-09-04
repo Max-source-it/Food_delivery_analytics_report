@@ -38,7 +38,7 @@ Food_delivery_analytics_report/
 ### 1. Когортное удержание клиентов
 Анализ показывает, как меняется процент клиентов, возвращающихся в сервис. Чем темнее ячейка, тем выше процент удержания.
 
-<img width="1300" height="784" alt="cohort_retention_heatmap" src="https://github.com/user-attachments/assets/27b27054-a850-47c7-bd66-a69db4536687" />
+![Когортное удержание](images/cohort_retention_heatmap.png)
 
 
 ### 2. RFM-сегментация
