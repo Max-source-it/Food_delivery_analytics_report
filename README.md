@@ -15,7 +15,6 @@
 
 ## 📂 Структура проекта
 
-```text
 Food_delivery_analytics_report/
 ├── data/
 │   ├── raw/               # Исходные данные (CSV)
