@@ -24,6 +24,13 @@ Food_delivery_analytics_report/
 │       └── food_delivery_analysis.ipynb   # Основной файл с кодом
 ├── images/                # Изображения из анализа
 ├── images_work/           # Изображения процесса работы
+├── sql/
+│   ├── 01_create_tables.sql
+│   ├── 02_cleaning_and_base_view.sql
+│   ├── 03_financial_metrics.sql
+│   ├── 04_product_growth_metrics.sql
+│   ├── 05_cohort_retention.sql
+│   └── 06_rfm_segmentation.sql
 ├── requirements.txt
 └── README.md
 ```
@@ -35,6 +42,11 @@ Food_delivery_analytics_report/
    pip install -r requirements.txt
 
 ## 📊 Анализ и Визуализация
+
+## 🗂️ Схема данных
+Проект построен на реляционной модели данных. Схема показывает основные таблицы (customers, restaurants, orders, menu_items, order_items) и аналитические представления (v_full_orders, v_customer_rfm, v_cohort_retention, v_financial_metrics, v_growth_metrics), созданные с помощью SQL.
+
+![Схема базы данных](images_work/database_er_diagram.png)
 
 ### 1. Когортное удержание клиентов
 Анализ показывает, как меняется процент клиентов, возвращающихся в сервис. Чем темнее ячейка, тем выше процент удержания.
@@ -65,6 +77,7 @@ Food_delivery_analytics_report/
 **Влияние рейтинга на скорость доставки:**
 
 ![Время доставки vs Рейтинг](images/delivery_vs_rating.png)
+
 
 ---
 
