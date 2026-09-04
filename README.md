@@ -24,6 +24,13 @@ Food_delivery_analytics_report/
 │       └── food_delivery_analysis.ipynb   # Основной файл с кодом
 ├── images/                # Изображения из анализа
 ├── images_work/           # Изображения процесса работы
+├── sql/
+│   ├── 01_create_tables
+│   ├── 02_cleaning_and_base_view
+│   ├── 03_financial_metrics
+│   ├── 04_product_growth_metrics
+│   ├── 05_cohort_retention
+│   └── 06_rfm_segmentation
 ├── requirements.txt
 └── README.md
 ```
