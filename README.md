@@ -15,7 +15,7 @@
 
 ## 📂 Структура проекта
 
-'''text
+```text
 Food_delivery_analytics_report/
 ├── data/
 │   ├── raw/               # Исходные данные (CSV)
@@ -25,7 +25,7 @@ Food_delivery_analytics_report/
 ├── images/                # Изображения из анализа
 ├── requirements.txt
 └── README.md
-'''
+```
 ## 🚀 Как запустить
 
 1. Склонируйте репозиторий или скачайте ZIP-архив.
